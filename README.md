@@ -1,2 +1,2 @@
 # exercitando
-Exercícios diversos com PHP.
+Exercícios diversos com JAVASCRIPT.
